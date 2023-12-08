@@ -1,0 +1,4 @@
+#TI AM35xx rules
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0451", ATTRS{idProduct}=="d022", MODE="0660", TAG+="uaccess"
+
+

@@ -3,4 +3,4 @@
 binaries
 dist
 src/snagboot.egg-info
-venv
+env

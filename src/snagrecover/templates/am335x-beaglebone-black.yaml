@@ -1,5 +1,4 @@
 spl:
-        path: spl-beagle.bin
+        path: firmwares/am335x-beaglebone-black/u-boot-spl.bin
 u-boot:
-        path: u-boot.img
-
+        path: firmwares/am335x-beaglebone-black/u-boot.img
